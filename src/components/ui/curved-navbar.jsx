@@ -69,12 +69,9 @@ const NavLink = ({ heading, href, setIsActive, index }) => {
             {String(index).padStart(2, "0")}.
           </span>
           <div className="flex flex-row gap-2">
-            <TextRoll
-              active={hovered}
-              className="text-2xl font-light text-black transition-colors duration-500"
-            >
+            <h3 className="text-2xl font-light text-black">
               {heading}
-            </TextRoll>
+            </h3>
           </div>
         </div>
       </a>
