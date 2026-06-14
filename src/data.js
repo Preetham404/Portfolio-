@@ -1,7 +1,7 @@
 
 import swocCertificate from "./assets/SWOC26-TC-Preetham_Shetty.png";
-import wanderStay from "./assets/Wanderstay.png";
-import spotifyClone from "./assets/Spotify.png";
+import wanderStay from "./assets/wanderstay.png";
+import spotifyClone from "./assets/spotify.png";
 import solarTracker from "./assets/solar-tracker.jpeg";
 import sapHackfest from "./assets/SAP_HackFest.jpeg";
 import innovex from "./assets/CodeForInnovex.JPG";
